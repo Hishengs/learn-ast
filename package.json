@@ -1,0 +1,22 @@
+{
+  "name": "learn-ast",
+  "version": "0.0.1",
+  "description": "a repo for ast learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ast"
+  ],
+  "author": "Hisheng",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/generator": "^7.11.6",
+    "@babel/parser": "^7.11.5",
+    "@babel/preset-env": "^7.11.5",
+    "@babel/traverse": "^7.11.5",
+    "@babel/types": "^7.11.5"
+  }
+}
